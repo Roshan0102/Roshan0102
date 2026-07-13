@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <style>
+    @keyframes wave {
+      0%, 60%, 100% { transform: rotate(0deg); }
+      10%, 30%, 50% { transform: rotate(14deg); }
+      20%, 40%      { transform: rotate(-8deg); }
+    }
+    .wave-emoji {
+      animation: wave 2.5s infinite;
+      transform-origin: 12px 26px;
+      display: inline-block;
+    }
+  </style>
+  <text x="2" y="26" font-size="24" class="wave-emoji">👋</text>
+</svg>

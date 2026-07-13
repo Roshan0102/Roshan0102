@@ -11,7 +11,7 @@
 </tr>
 </table>
 
-## Roshan J
+## Hello there, I'm Roshan J <img src="./waving-hand.svg" width="30" valign="middle" />
 
 **Cloud & DevOps Engineer · AWS Certified · Automation & GitOps**
 
