@@ -1,0 +1,15 @@
+# Photos & Prepped files
+*Passport size photo.png
+source-photo.jpg
+source-photo.png
+source-prepped.png
+
+# Python
+__pycache__/
+*.pyc
+
+# Local environments / IDEs
+.venv/
+venv/
+.idea/
+.vscode/
